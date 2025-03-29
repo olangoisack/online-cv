@@ -1,6 +1,6 @@
-title: "Your Name - Portfolio"  # Change this
-description: "Electrical Engineering Portfolio"
-baseurl: "/online-cv"  # Critical for project sites!
-remote_theme: pages-themes/minimal@v0.2.0
+title: "Isack Odiwuor - Electrical Engineer"
+description: "Telecommunications Portfolio"
+baseurl: "" # Leave this empty
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
